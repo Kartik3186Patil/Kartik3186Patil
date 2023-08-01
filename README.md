@@ -40,7 +40,7 @@
 
  <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
  <div>
-&nbsp;<img src ="https://github-readme-stats.vercel.app/api?username=kartik3186patil&theme=shades-of-purple&border_radius=20px&show_icons=true&locale=en" alt="kartik3186patil" width = "50%" height ="200px" align ="left"/>
+&nbsp;<img src ="https://github-readme-stats.vercel.app/api?username=kartik3186patil&theme=shades-of-purple&border_radius=20px&show_icons=true&locale=en" alt="kartik3186patil" width = "45%" height ="200px" align ="left"/>
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik3186Patil&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="45%" height ="200px" align ="right" alt="kartik3186patil"/>
    <br>
 <br>
