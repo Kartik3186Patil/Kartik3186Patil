@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kartik-patil-8423a8200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartik Patil LinkedIn" height="30" width="40" /></a>
 <a href="https://www.behance.net/kartikpatil204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Kartik Patil Behance" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kartikrbj7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Kartik Patil CodeChef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikrbj60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kartik Patil HackerRank" height="30" width="40" /></a>
-<a href="https://leetcode.com/kartikrbj60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kartik Patil LeetCode" height="30" width="40" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
